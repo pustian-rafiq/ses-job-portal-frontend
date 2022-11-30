@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="comments_outline" width="24" height="32" viewBox="0 0 32 36">
+    <defs>
+        <style>
+            .cls-1{fill:#999}
+        </style>
+    </defs>
+    <path id="Path_502" d="M268 240h-24a4 4 0 0 0-4 4v18a4 4 0 0 0 4 4h6v5.25a.748.748 0 0 0 .75.75.721.721 0 0 0 .444-.15L259 266h9a4 4 0 0 0 4-4v-18a4 4 0 0 0-4-4zm1 22a1 1 0 0 1-1 1h-10l-.8.6-4.2 3.15V263h-9a1 1 0 0 1-1-1v-18a1 1 0 0 1 1-1h24a1 1 0 0 1 1 1z" className="cls-1" data-name="Path 502" transform="translate(-240 -240)"/>
+</svg>
